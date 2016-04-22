@@ -6,10 +6,16 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\sprite0</sprite>
+    <sprite>sprites\spr_spaceShip</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_spaceShip</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rm_game</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
